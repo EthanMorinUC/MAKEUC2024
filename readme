@@ -1,0 +1,10 @@
+Code Based Off: https://github.com/MyDuan/openGL-openCV-python-sample/blob/master/ARTest.py, https://github.com/yarolig/OBJFileLoader/blob/master/OBJFileLoader/objloader.py, https://github.com/cjcarver/OpenGL-OpenCV-AR/blob/main/main.py
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Code & Reorganized and Modified by Aymaan Khan, Anuj Chanodia, and Ethan Morin
+**This code is an active work in progress** 
+Our goal is to have an app which interprects an AR code to dynamically project 3D lessons that can be viewed through the app. 
+We want it to be cheap and sustainable, which is why we choose to use recycled cardboard and paper to make the cards that our AR codes are printed on.
+Our app will store all the educational information on the device, allowing for the lessons to be accessed in areas that don't have reliable internet access. 
+Because our education "Arise" flashcards made of recycled cardboard and paper we are able to produce the cards inexpensively, leading to lower prices that can be afforded by all learners.
+We hope to provide cheaper and more convenient education to those all over the world while still providing first class hands on learning experiences. 
+We believe everyone deserves a solid and personal education and as such our product is a natural choice. 
