@@ -1,0 +1,4 @@
+.venv
+/pyopengl
+*.whl
+__pycache__
